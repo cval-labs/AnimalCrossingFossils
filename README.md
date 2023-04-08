@@ -45,7 +45,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-This was a challenging project that helped me improve working with API requests and understand how to connect a RecyclerView with API request data. 
+This was a challenging project that helped me improve working with API requests and understand how to connect a RecyclerView with API request data, as well implement a Toast and item dividers.
 
 ## License
 
