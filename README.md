@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**Animal Crossing Fossils** is an android app that **uses ACNH API displays fossils from Animal Crossing: New Horizons in a RecyclerView**
+**Animal Crossing Fossils** is an android app that **uses ACNH API to display fossils from Animal Crossing: New Horizons in a RecyclerView**
 
 If I had to describe this project in three (3) emojis, they would be: **🤔🧗‍♀️💡**
 
